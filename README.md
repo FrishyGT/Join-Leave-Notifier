@@ -17,7 +17,7 @@
 • Steps to Install
 • Install BepInEx:
 
-• 1. Download the latest version of BepInEx from the official "https://github.com/BepInEx/BepInEx".
+• 1. Download the latest version of BepInEx from the official "[BepInEx](https://github.com/BepInEx/BepInEx)".
 
 • 2. Extract the contents into the root folder of your game.
 
