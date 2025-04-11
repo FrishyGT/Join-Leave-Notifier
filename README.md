@@ -1,32 +1,32 @@
 # Notification Notifier Plugin
-â€¢ This plugin, Notification Notifier, allows you to receive real-time notifications in your game when certain events occur, such as when players join or leave the lobby. It utilizes the Unity engine to display on-screen notifications, providing useful information without disrupting the gameplay.
+• This plugin, Notification Notifier, allows you to receive real-time notifications in your game when certain events occur, such as when players join or leave the lobby. It utilizes the Unity engine to display on-screen notifications, providing useful information without disrupting the gameplay.
 
 # Features
-â€¢ Real-Time Notifications: Instantly notifies the player when a specific event occurs, such as when a player joins or leaves the game.
+• Real-Time Notifications: Instantly notifies the player when a specific event occurs, such as when a player joins or leaves the game.
 
-â€¢ Customizable Text: Supports rich text formatting to customize the appearance of notifications (e.g., different colors, bold, italics).
+• Customizable Text: Supports rich text formatting to customize the appearance of notifications (e.g., different colors, bold, italics).
 
-â€¢ Decaying Notifications: Notifications gradually fade out after a specified duration to keep the screen uncluttered.
+• Decaying Notifications: Notifications gradually fade out after a specified duration to keep the screen uncluttered.
 
-â€¢ Clear Notifications: Provides functions to clear all notifications or clear a specified number of past notifications.
+• Clear Notifications: Provides functions to clear all notifications or clear a specified number of past notifications.
 
-â€¢ Plugin Settings: Easily configurable plugin settings, such as enabling/disabling notifications, adjusting decay time, and modifying font size.
+• Plugin Settings: Easily configurable plugin settings, such as enabling/disabling notifications, adjusting decay time, and modifying font size.
 
 # Installation Instructions
 
-â€¢ Steps to Install
-â€¢ Install BepInEx:
+• Steps to Install
+• Install BepInEx:
 
-â€¢ 1. Download the latest version of BepInEx from the official "[BepInEx](https://github.com/BepInEx/BepInEx)".
+• 1. Download the latest version of BepInEx from the official "https://github.com/BepInEx/BepInEx".
 
-â€¢ 2. Extract the contents into the root folder of your game.
+• 2. Extract the contents into the root folder of your game.
 
-â€¢ 3. Download the Notification Notifier Plugin:
+• 3. Download the Notification Notifier Plugin:
 
-â€¢ 4. Download the latest release of Notification Notifier Plugin from the repository (e.g., GitHub or wherever the plugin is hosted).
+• 4. Download the latest release of Notification Notifier Plugin from the repository (e.g., GitHub or wherever the plugin is hosted).
 
-â€¢ 5. Place the Plugin DLL:
+• 5. Place the Plugin DLL:
 
-â€¢ 6. Copy the pluginâ€™s .dll file into the BepInEx/plugins/directory of your gameâ€™s installation folder.
+• 6. Copy the plugin’s .dll file into the BepInEx/plugins/directory of your game’s installation folder.
 
-â€¢ 7. Launch the Game: Start your game normally, and the plugin should be loaded automatically by BepInEx.
+• 7. Launch the Game: Start your game normally, and the plugin should be loaded automatically by BepInEx.
